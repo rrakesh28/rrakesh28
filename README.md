@@ -41,7 +41,7 @@ My initial exposure to computers happened with Windows XP during my childhood, a
 
 After more than a year with Ubuntu, my curiosity led me to Manjaro Linux, attracted by its resource efficiency. Exploring the i3wm and the world of Linux ricing, I spent a week exploring i3wm and Linux customization on Manjaro. I learned about its package manager, Pacman, and shared the final result of my laptop customization in videos on my YouTube channel.
 
-Upon graduation, I landed a job as a full-stack developer, exposing me to numerous technologies and frameworks. Despite the excitement of overcoming daily challenges, there has always been a nagging feeling—did I abandon my dream of building my own app for the safety of a job? Now, as I reflect, that burning desire to create my own product resurfaces.
+During my graduation, I worked as a lead developer for TeachForIndia's Cloudkakshaa project. This role prepared me for my subsequent position as a full-stack developer, where I gained exposure to a variety of technologies and frameworks, greatly influencing my coding journey.
 
 You can also check out my laptop customization videos on [my YouTube channel](#https://www.youtube.com/@gizmospace9755) for more insights into my journey.
 
